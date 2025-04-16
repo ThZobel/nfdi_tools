@@ -8,6 +8,8 @@ Every work group can apply for an account on the HIVE. Please ask your PI or a r
 ## Connecting to the HIVE
 -------------------------
 
+:::{admonition} This is a min test for a field?
+
 To connect to the HIVE, you can use the remote desktop connection. This is also possible from home via the university VPN connection.
 
 1. Start the Remote Desktop Control and connect to the following IP address: `10.15.127.4`
