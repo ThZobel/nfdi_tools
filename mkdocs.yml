@@ -2,5 +2,6 @@ site_name: Münster Imaging Network - Read the Docs
 nav:
   - Home: index.md
   - About: about.md
+  - Hive: hive.md
   
 theme: readthedocs
