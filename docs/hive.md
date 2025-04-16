@@ -1,11 +1,10 @@
 # The HIVE - FAQ
-=================
 
 ## Introduction
 ---------------
-
+[Details](# details)
 Every work group can apply for an account on the HIVE. Please ask your PI or a responsible person in your lab if you already have an account. If you do not have an account yet, please ask your PI or the official contact person of the Imaging Network to contact the Imaging Network. We will then create an account for you.
-
+[/details]
 ## Connecting to the HIVE
 -------------------------
 
