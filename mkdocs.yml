@@ -1,7 +1,11 @@
-site_name: Münster Imaging Network - Read the Docs
+site_name: NFDI4BioImage Tool List
 nav:
   - Home: index.md
-  - About: about.md
-  - Hive: hive.md
-  
-theme: readthedocs
+  - Analysis Software: 01_Analysis Software.md
+  - AI Tools: 02_AI Tools.md
+  - Research Data Management Platforms: 03_Research Data Management Platforms.md
+  - Research Data Management Tools: 04_Research Data Management Tools.md
+  - Computing Resources: 05_Computing Resources.md
+  - Examples: 06_Examples.md
+
+ theme: readthedocs
